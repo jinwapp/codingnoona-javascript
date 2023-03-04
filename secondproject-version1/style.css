@@ -39,3 +39,11 @@ body {
 	top: 52px;
 	padding: 0px;
 }
+
+.task-done {
+	text-decoration: line-through;
+}
+
+.task-tabs div {
+	cursor: pointer;
+}
